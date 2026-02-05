@@ -1,5 +1,10 @@
 LVM- logical volume mounting 
 physical volume: actual disk/ partition
+volume group: group of pv
+logical volume: virtual partition we mount from volume group
+
+using lvm we can increase storage anytime -- dynamic storage management
+
 
 
 <img width="490" height="492" alt="image" src="https://github.com/user-attachments/assets/7e1b0a9b-f08e-4bfc-b91a-f7d88bd011dc" />
